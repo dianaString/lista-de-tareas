@@ -1,0 +1,10 @@
+html { padding-left:30px; font-family:'Courier New', Courier, monospace;}
+
+ul {
+    list-style-type: none;
+}
+
+.crossed {
+    color: rgb(22, 84, 201);
+    text-decoration: line-through;
+}
